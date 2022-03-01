@@ -1,0 +1,88 @@
+---
+title: "R Notebook"
+output: html_notebook
+editor_options: 
+  chunk_output_type: console
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+```{r}
+plot(cars)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file). 
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+print("Hello")
+print("Hello")
+2+2
+> print("Hello")
+[1] "Hello"
+> 2+2
+[1] 4
+> setwd("~/Downloads/Term Project/R Sections")
+> getwd("~/Downloads/Term Project/R Sections")
+Error in getwd("~/Downloads/Term Project/R Sections") : 
+  unused argument ("~/Downloads/Term Project/R Sections")
+> netflix=read.csv(netflix-rotten-tomatoes-metacritic-imdb copy.csv)
+Error: unexpected symbol in "netflix=read.csv(netflix-rotten-tomatoes-metacritic-imdb copy.csv"
+> netflix=read.csv("netflix-rotten-tomatoes-metacritic-imdb copy.csv")
+Error in file(file, "rt") : cannot open the connection
+In addition: Warning message:
+In file(file, "rt") :
+  cannot open file 'netflix-rotten-tomatoes-metacritic-imdb copy.csv': No such file or directory
+> setwd("~/Downloads/Term Project")
+> getwd()
+[1] "/Users/mehandru/Downloads/Term Project"
+> netflix=read.csv("netflix-rotten-tomatoes-metacritic-imdb copy.csv")
+> summary(netflix)
+ Series.or.Movie      IMDb.Score    Rotten.Tomatoes.Score
+ Length:3728        Min.   :1.600   Min.   :  0.00       
+ Class :character   1st Qu.:6.000   1st Qu.: 38.00       
+ Mode  :character   Median :6.600   Median : 65.00       
+                    Mean   :6.585   Mean   : 59.91       
+                    3rd Qu.:7.300   3rd Qu.: 83.00       
+                    Max.   :9.300   Max.   :100.00       
+ Awards.Received   Awards.Nominated.For   Boxoffice        
+ Min.   :  0.000   Min.   :  0.00       Min.   :      422  
+ 1st Qu.:  0.000   1st Qu.:  2.00       1st Qu.:  1224215  
+ Median :  2.000   Median :  6.00       Median : 22134542  
+ Mean   :  9.119   Mean   : 18.08       Mean   : 48368815  
+ 3rd Qu.:  8.000   3rd Qu.: 17.00       3rd Qu.: 64188187  
+ Max.   :300.000   Max.   :355.00       Max.   :659363944  
+ Hidden.Gem.Score
+ Min.   :0.600   
+ 1st Qu.:2.500   
+ Median :3.400   
+ Mean   :3.589   
+ 3rd Qu.:4.100   
+ Max.   :9.200   
+> library(dplyr)
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+> install.packages("corrgram")
+trying URL 'https://cran.rstudio.com/bin/macosx/contrib/4.1/corrgram_1.14.tgz'
+Content type 'application/x-gzip' length 398837 bytes (389 KB)
+==================================================
+downloaded 389 KB
+
+
+The downloaded binary packages are in
+	/var/folders/8f/d33j06x169g8t19_m_htsrd400xbh7/T//RtmpA7lbaR/downloaded_packages
+> library(corrgram)
+> corrgram(netflix)
+> corrgram(netflix, order=TRUE, lower.panel=panel.pie, upper.panel=panel.conf, text.panel=panel.txt, main="Corrgram depicting correlations")

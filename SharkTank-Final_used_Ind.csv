@@ -1,0 +1,122 @@
+Episode,Company ,Idea,Industry,Social Benefit,Tech or not,Deal ,Number of presenters,No of male presenters,No of female presenters,Ask_Amount (INR Lakhs),Ask_Equity,Ask_Valuation (INR Lakhs),Number of Sharks invested,Amount per Shark ,Equity per Shark,Reject_Offer,Receive_Offer,Deal_Amount (INR Lakhs),Deal_Equity,Deal_Valuation ,AshneerGrover_present,AnupamMittal_present,AmanGupta_present,NamitaThapar_present,VineetaSingh_present,PeyushBansal_present,GhazalAlagh_present,AshneerGrover_deal,AnupamMittal_deal,AmanGupta_deal,NamitaThapar_deal,VineetaSingh_deal,PeyushBansal_deal,GhazalAlagh_deal,Season
+1,BluePine Industries,Frozen Momos,Food and Bevs,0,0,1,3,2,1,50,5,1000,3,25,5.333333333,0,1,75,16,468.75,1,1,1,1,1,0,0,1,0,1,0,1,0,0,1
+1,Booz scooters,Renting e-bike for mobility in private spaces,Transportation,1,1,1,1,1,0,40,15,266.67,2,20,25,0,1,40,50,80,1,1,1,1,1,0,0,1,0,0,0,1,0,0,1
+1,Heart up my Sleeves,Detachable Sleeves,Clothing,0,0,1,1,0,1,25,10,250,2,12.5,15,0,1,25,30,83.33,1,1,1,1,1,0,0,0,1,0,0,1,0,0,1
+2,Tagz Foods,Healthy Potato Chips,Food and Bevs,0,0,1,2,2,0,70,1,7000,1,70,2.75,0,1,70,2.75,2545.45,1,1,1,1,1,0,0,1,0,0,0,0,0,0,1
+2,Head and Heart,Brain Development Course,Education,0,1,0,4,1,3,50,5,1000,0,0,0,NA,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1
+2,Agro tourism,Tourism,Tourism,1,0,0,2,1,1,50,5,1000,0,0,0,NA,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1
+3,Qzense Labs,Food Freshness Detector,Technology,1,1,0,2,0,2,100,0.25,40000,0,0,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1
+3,Peeschute,Disposable Urine Bag,Bodycare,1,0,1,1,1,0,75,4,1875,1,75,6,0,1,75,6,1250,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1
+3,NOCD,Energy Drink,Food and Bevs,0,0,1,2,2,0,50,2,2500,1,20,15,0,1,20,15,133.33,1,1,1,1,1,0,0,0,0,0,0,1,0,0,1
+4,Cosiq,Intelligent Skincare,Personal care,0,0,1,2,1,1,50,7.5,666.67,2,25,12.5,0,1,50,25,200,1,1,1,1,1,0,0,0,1,0,0,1,0,0,1
+4,JhaJi Achaar,Pickle,Food and Bevs,0,0,0,2,0,2,50,10,500,0,0,0,NA,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1
+4,Bummer,Underwear,Clothing,0,0,1,1,1,0,75,4,1875,2,37.5,3.75,0,1,75,7.5,1000,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1
+5,Revamp Moto,E-Bike,Transportation,1,1,1,3,3,0,100,1,10000,2,50,0.75,0,1,100,1.5,6666.67,1,1,1,1,1,0,0,0,1,1,0,0,0,0,1
+5,Hungry Heads,Restaurant serving 80 types of Maggi,Food and Bevs,0,0,0,2,2,0,50,5,1000,0,0,0,NA,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1
+5,Shrawani Engineers,Belly Button Shaper,Bodycare,0,0,0,2,1,1,10,20,50,0,0,0,NA,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1
+6,Skippi Pops,Ice-Pops,Food and Bevs,0,0,1,2,1,1,45,5,900,5,20,3,0,1,100,15,666.67,1,1,1,1,1,0,0,1,1,1,1,1,0,0,1
+6,Menstrupedia,Menstrual Awareness Comic,Bodycare,1,0,1,2,1,1,50,10,500,1,50,20,0,1,50,20,250,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1
+6,Hecolll,Pollution Resistant Fabric,Clothing,1,0,0,1,0,1,100,1,10000,0,0,0,NA,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1
+7,Raising Superstars,Child Development App,Education,0,1,0,2,1,1,100,2,5000,2,50,2,0,1,100,4,2500,1,1,1,1,1,0,0,1,0,1,0,0,0,0,1
+7,Torch-it,Gadgets for visually impaired people,Healthcare,1,1,1,1,1,0,75,1,7500,0,0,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1
+7,La Kheer Deli,Kheer in variety of flavors,Food and Bevs,0,0,0,3,1,2,50,7.5,666.67,0,0,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1
+8,Beyond Snack,Kerala Banana Chips,Food and Bevs,0,0,1,1,1,0,50,2.5,2000,2,25,1.25,0,1,50,2.5,2000,1,1,1,1,0,1,0,1,0,1,0,0,0,0,1
+8,Vivalyf Innovations- Easy Life,Prickless Diabetes Testing Machine,Healthcare,1,1,1,4,2,2,56,7.5,746.67,2,28,16.65,0,1,56,33.3,168.17,1,1,1,1,0,1,0,0,1,0,0,0,1,0,1
+8,Motion Breeze,Smart Electric Motorcycle,Transportation,1,1,1,4,4,0,30,3,1000,1,30,6,0,1,30,6,500,1,1,1,1,0,1,0,1,0,0,0,0,0,0,1
+9,Altor,Smart Helmets,Transportation,1,0,1,4,4,0,50,5,1000,2,25,3.5,0,1,50,7,714.29,1,1,1,1,0,1,0,0,0,1,1,0,0,0,1
+9,Ariro,Wooden Toys,Childcare,1,0,1,2,1,1,50,2.5,2000,2,25,5,0,1,50,10,500,1,1,1,1,0,1,0,0,0,1,0,0,1,0,1
+9,Kabira Handmade,Healthy Oils,Bodycare,1,0,0,2,1,1,100,5,2000,0,0,0,1,1,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+10,Nuutjob,Male Intimate Hygiene,Bodycare,1,0,1,2,0,2,25,5,500,3,8.333333333,6.666666667,0,1,25,20,125,1,1,1,1,0,1,0,0,0,1,1,0,1,0,1
+10,Meatyour,Eggs,Food and Bevs,0,0,1,3,3,0,30,5,600,3,10,6.666666667,0,1,30,20,150,1,1,1,1,0,1,0,0,1,1,0,0,1,0,1
+10,EventBeep,Student Community App,Technology,0,1,1,3,2,1,30,2,1500,3,10,1,0,1,30,3,1000,1,1,1,1,0,1,0,1,0,1,0,0,1,0,1
+11,Gopal's 56,Fiber Ice Cream,Food and Bevs,1,0,0,1,1,0,30000,25,120000,0,0,0,NA,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+11,ARRCOAT Surface Textures,Wall Building,Realty,0,0,1,3,3,0,50,5,1000,1,50,15,0,1,50,15,333.33,1,1,1,1,0,1,0,0,1,0,0,0,0,0,1
+11,Farda,Customised Streetwear,Clothing,0,0,1,2,1,1,30,10,300,2,15,10,0,1,30,20,150,1,1,1,1,0,1,0,0,0,1,1,0,0,0,1
+12,Auli Lifestyle,Ayurvedic Products,Healthcare,1,0,1,1,0,1,75,4,1875,1,75,15,0,1,75,15,500,1,1,1,1,0,1,0,0,0,0,1,0,0,0,1
+12,SweeDesi,Indian Sweets,Food and Bevs,0,0,0,2,1,1,40,3,1333.33,0,0,0,NA,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+12,LOKA,Metaverse App,Technology,0,1,1,1,1,0,40,5,800,3,13.33333333,8,0,1,40,24,166.67,1,1,1,1,0,1,0,0,1,1,0,0,1,0,1
+13,Annie,Braille Literary Device,Education,1,1,1,4,3,1,30,5,600,3,35,1,0,1,105,3,3500,1,1,1,1,0,1,0,0,1,0,1,0,1,0,1
+13,Caragreen,Eco-Friendly boxes,Home utility,1,0,1,2,0,2,50,10,500,2,25,10,0,1,50,20,250,1,1,1,1,0,1,0,0,1,0,0,0,1,0,1
+13,The Yarn Bazaar,Yarn-Trading App,Technology,0,1,1,1,1,0,50,2,2500,4,25,2.5,0,1,100,10,1000,1,1,1,1,0,1,0,1,1,1,0,0,1,0,1
+14,The Renal Project,Home Dialysis Treatment,Healthcare,1,0,1,1,1,0,100,3,3333.33,2,50,3,0,1,100,6,1666.67,1,1,1,1,0,1,0,0,0,1,1,0,0,0,1
+14,Morikko Pure Foods,Healthy Food Snacks,Food and Bevs,1,0,0,3,2,1,100,3,3333.33,0,0,0,1,1,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+14,Good Good Piggy Bank,Digital Piggy Bank,Technology,0,1,0,1,0,1,45,5,900,0,0,0,NA,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+15,Hammer Lifestyle,Smart Audio Products,Technology,0,1,1,1,1,0,30,3,1000,1,100,40,0,1,100,40,250,1,1,1,1,0,1,0,0,0,1,0,0,0,0,1
+15,PNT,Robotics and Automation Solutions,Technology,0,1,1,2,2,0,50,4,1250,1,25,25,0,1,25,25,100,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1
+15,Cocofit,Coconut based beverage franchise,Food and Bevs,1,0,1,3,3,0,5,5,100,3,1.67E-05,1.666666667,0,1,0.00005,5,0,1,1,1,1,0,1,0,0,1,1,1,0,0,0,1
+16,Bamboo India,Bamboo Products,Handicrafts,1,0,1,2,1,1,80,4,2000,2,25,1.75,0,1,50,3.5,1428.57,1,1,1,1,0,1,0,1,1,0,0,0,0,0,1
+16,Flying Furr,Dog Hygiene,Petcare,0,0,0,3,2,1,75,7,1071.43,0,0,0,NA,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+16,Beyond Water,Liquid Water Enhancer,Bodycare,0,0,1,2,1,1,75,4,1875,2,37.5,7.5,0,1,75,15,500,1,1,1,1,0,1,0,0,0,1,1,0,0,0,1
+16,Let's Try,Healthy Snacks,Food and Bevs,1,0,1,4,1,3,45,2,2250,2,22.5,6,0,1,45,12,375,1,1,1,1,0,1,0,0,1,1,0,0,0,0,1
+17,Find Your Kicks India,Sneaker Resale,Clothing,0,0,1,3,3,0,50,10,500,5,10,5,0,1,50,25,200,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1
+17,Aas Vidyalaya,EdTech App,Education,0,1,1,2,1,1,150,3,5000,3,50,5,0,1,150,15,1000,1,1,1,1,0,1,0,1,0,0,1,0,1,0,1
+17,Outbox,Premium Surprise-Planning,Hospitality,0,0,0,2,1,1,50,5,1000,0,0,0,NA,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+17,RoadBounce,Pothole Detection Software and Data,Technology,1,1,1,1,1,0,80,10,800,1,80,20,0,1,80,20,400,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1
+18,Mommy's Kitchen,Thin Crust Pizza,Food and Bevs,0,0,0,3,2,1,90,3,3000,0,0,0,NA,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+18,India Hemp and Co,Hemp Food Products,Food and Bevs,1,0,0,1,0,1,50,4,1250,0,0,0,1,1,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+18,Otua,Electric Auto Vehicle,Transportation,1,1,1,2,2,0,100,1,10000,1,1,1,0,1,1,1,100,1,1,1,1,0,1,0,1,0,0,0,0,0,0,1
+18,Anthyesti,Funeral Service,Hospitality,0,0,0,1,0,1,50,2.5,2000,0,0,0,NA,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+19,Ethik,Leather-free Shoes,Clothing,0,0,0,2,2,0,15,5,300,0,0,0,NA,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+19,WeSTOCK,Livestock health monitoring AI,Technology,1,1,1,2,2,0,50,5,1000,4,15,2.5,0,1,60,10,600,1,1,1,1,0,1,0,1,0,1,1,0,1,0,1
+19,KetoIndia,Customised Keto Diets for various medical issues,Food and Bevs,1,0,0,1,1,0,125,1.25,10000,0,0,0,1,1,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+19,Magic lock,LPG Cylinder lock,Home utility,0,0,0,3,3,0,120,8,1500,0,0,0,NA,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+20,The State Plate,Delicacies,Food and Bevs,0,0,1,2,1,1,65,2,3250,1,40,3,0,1,40,3,1333.33,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1
+20,Bakarmax,Comics & Animation,Entertainment,0,0,0,2,2,0,35,5,700,0,0,0,NA,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+20,IN A CAN,Can Cocktails,Food and Bevs,0,0,1,2,2,0,50,2,2500,5,20,2,0,1,100,10,1000,1,1,1,1,0,1,0,1,1,1,1,0,1,0,1
+21,Get a Whey,Sugar-Free Icecream,Food and Bevs,1,0,1,2,1,1,100,8,1250,3,33.33333333,5,0,1,100,15,666.67,1,1,1,0,1,1,0,1,0,1,0,1,0,0,1
+21,Sid07 Designs,Inventions,Home utility,0,0,1,1,1,0,47,10,470,1,25,75,0,1,25,75,33.33,1,1,1,0,1,1,0,0,0,0,0,0,1,0,1
+21,The Quirky Nari,Customised Apparels,Clothing,0,0,1,1,0,1,35,5,700,2,17.5,12,0,1,35,24,145.83,1,1,1,0,1,1,0,0,1,0,0,1,0,0,1
+22,Hair Originals,Natural Hair Extensions,Personal care,0,0,1,3,3,0,60,2,3000,3,20,1.333333333,0,1,60,4,1500,1,1,1,0,1,1,0,1,1,0,0,0,1,0,1
+22,Poo de Cologne,Toilet Spray with Essential Oils,Home utility,0,0,0,1,0,1,75,5,1500,0,0,0,NA,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1
+22,Moonshine Meads,Meads,Food and Bevs,0,0,0,2,2,0,80,5,1600,0,0,0,1,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1
+22,Falhari,Fresh Fruits,Food and Bevs,0,0,0,3,3,0,50,2,2500,0,0,0,1,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1
+23,Namhya Foods,Ayurvedic Enriched Food,Food and Bevs,1,0,1,1,0,1,100,5,2000,1,50,10,0,1,50,10,500,1,1,1,0,1,1,0,0,0,1,0,0,0,0,1
+23,Urban Monkey,Streetwear,Clothing,0,0,0,1,1,0,100,1,10000,0,0,0,1,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1
+23,Guardian Gears,Motorcycle Luggage,Transportation,0,0,0,2,1,1,30,5,600,0,0,0,1,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1
+23,Modern Myth,Bags,Clothing,0,0,0,2,1,1,75,5,1500,0,0,0,NA,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,1
+24,The Sass Bar,Gifts,Hospitality,0,0,1,1,0,1,40,8,500,2,25,17.5,0,1,50,35,142.86,0,1,0,1,1,1,1,0,1,0,0,0,0,1,1
+24,KG Agrotech,Agricultural Innovations,Industrial,1,0,1,2,2,0,30,10,300,1,10,40,0,1,10,40,25,0,1,0,1,1,1,1,0,0,0,0,0,1,0,1
+24,Nuskha Kitchen,Homemade Foods,Food and Bevs,0,0,0,2,1,1,20,10,200,0,0,0,NA,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1
+25,PawsIndia,Dog Products,Petcare,0,0,1,1,0,1,50,4,1250,1,50,15,0,1,50,15,333.33,0,1,0,1,1,1,1,0,1,0,0,0,0,0,1
+25,Sunfox Technologies,Portable ECG Device,Healthcare,1,1,1,4,4,0,100,2,5000,5,20,1.2,0,1,100,6,1666.67,0,1,0,1,1,1,1,0,1,0,1,1,1,1,1
+25,Alpino,Roasted Peanut Products,Food and Bevs,0,0,0,4,4,0,150,2,7500,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1
+26,Isak Fragrances,Perfumes,Personal care,0,0,1,1,0,1,50,8,625,1,50,50,0,1,50,50,100,0,1,0,1,1,1,1,0,0,0,0,0,1,0,1
+26,Julaa Automation,Automatic Cradle,Home utility,0,1,0,3,3,0,50,10,500,0,0,0,NA,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1
+26,Rare Planet,Handicrafts,Home utility,0,0,1,2,2,0,65,1,6500,1,65,3,0,1,65,3,2166.67,0,1,0,1,1,1,1,0,0,0,1,0,0,0,1
+27,Theka Coffee,Coffee Products,Food and Bevs,0,0,0,1,1,0,50,10,500,0,0,0,NA,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1
+27,Watt Technovations,Ventilated PPE Kits,Healthcare,1,0,1,1,1,0,0.00101,10,0.01,4,0.0002525,1,0,1,0.00101,4,0.03,0,1,0,1,1,1,1,0,1,0,1,0,1,1,1
+27,Aliste Technologies,Automation Solutions,Technology,0,1,0,6,6,0,60,5,1200,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1
+27,Insurance Samadhan,Insurance Solutions,Finance Personal,0,0,1,3,2,1,100,1,10000,1,100,4,0,1,100,4,2500,0,1,0,1,1,1,1,0,0,0,0,0,1,0,1
+28,Humpy A2,Organic Milk Products,Food and Bevs,1,0,1,3,2,1,75,4,1875,3,33.33333333,5,0,1,100,15,666.67,0,1,0,1,1,1,1,0,0,0,0,1,1,1,1
+28,Kunafa World,Kunafa,Hospitality,0,0,0,2,1,1,90,5,1800,0,0,0,NA,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1
+28,Gold Safe Solutions Ind.,Anti-Suicidal Fan Rod,Home utility,1,0,1,2,2,0,50,5,1000,3,16.66666667,10,0,1,50,30,166.67,0,1,0,1,1,1,1,0,0,0,0,1,1,1,1
+29,Wakao Foods,Jackfruit Products,Food and Bevs,1,0,1,1,1,0,75,5,1500,3,25,7,0,1,75,21,357.14,0,1,0,1,1,1,1,0,0,0,1,1,0,1,1
+29,PDD Falcon,Stainless Steel Items,Home utility,0,0,0,2,1,1,75,3,2500,0,0,0,1,1,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1
+29,PlayBox TV,Streaming Platform,Entertainment,0,1,0,2,2,0,100,3.5,2857.14,0,0,0,NA,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1
+30,Sippline Drinking Shields,Portable Glass Attachment,Healthcare,1,0,0,1,1,0,75,15,500,0,0,0,NA,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1
+30,Kabaddi Adda,All-Kabaddi App,Entertainment,1,1,1,2,2,0,80,1,8000,2,40,3,0,1,80,6,1333.33,1,1,1,1,1,0,0,0,0,0,1,1,0,0,1
+30,Shades of Spring,Flowers,Home utility,0,0,0,2,1,1,300,1,30000,0,0,0,NA,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1
+30,Scholify,Scholarship Platform,Education,1,1,0,1,1,0,50,7.5,666.67,0,0,0,NA,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1
+31,Scrapshala,Handmade Reusable Scrap Materials,Home utility,1,0,0,2,0,2,50,10,500,0,0,0,NA,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1
+31,Sabjikothi,Vegetables Storage,Home utility,0,0,0,2,1,1,60,2.5,2400,0,0,0,NA,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1
+31,AyuRythm,Ayurvedic Wellness App,Healthcare,1,0,1,3,3,0,75,2,3750,1,75,2.68,0,1,75,2.68,2798.51,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1
+31,Astrix,Smart Locks,Home utility,0,1,0,2,1,1,75,3,2500,0,0,0,NA,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1
+32,Thea and Sid,Proposal Solutions,Hospitality,0,0,0,2,0,2,80,7,1142.86,0,0,0,NA,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+32,Experential Etc,Technology layered Advertisement Services,Marketing,0,1,0,2,2,0,200,4,5000,0,0,0,1,1,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+32,GrowFitter,Rewards App,Technology,0,1,1,2,2,0,50,1,5000,1,50,2,0,1,50,2,2500,1,1,1,1,0,1,0,0,0,1,0,0,0,0,1
+32,Med Tech,Portable opthalmic devices,Healthcare,1,1,0,2,1,1,35,6,583.33,0,0,0,1,1,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+33,Colour Me Mad,Insoles,Clothing,0,0,1,2,1,1,40,10,400,1,40,25,0,1,40,25,160,1,1,1,1,0,1,0,0,0,0,1,0,0,0,1
+33,Mavi's,Vegan Fermented Food,Food and Bevs,1,0,0,2,1,1,40,5,800,0,0,0,NA,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+33,Tweek Labs,Sportswear,Clothing,0,0,1,4,4,0,40,2,2000,3,20,3.333333333,0,1,60,10,600,1,1,1,1,0,1,0,1,1,0,0,0,1,0,1
+33,Proxgy,VR,Entertainment,0,1,1,2,2,0,35,1,3500,2,5,5,0,1,10,10,100,1,1,1,1,0,1,0,1,0,0,0,0,1,0,1
+34,Nomad Food Project,Bacon Jams,Food and Bevs,0,0,1,2,2,0,40,10,400,4,10,5,0,1,40,20,200,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1
+34,Twee in One,Reversible and convertible clothing,Clothing,0,0,0,1,0,1,30,7.5,400,0,0,0,NA,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1
+34,Green Protein,Plant-Based Protein,Food and Bevs,1,0,0,2,1,1,60,2,3000,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1
+34,On2Cook,Fastest Cooking Device,Home utility,0,1,0,1,1,0,100,1,10000,0,0,0,NA,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1
+35,Jain Shikanji,Lemonade,Food and Bevs,0,0,1,1,1,0,40,8,500,4,10,7.5,0,1,40,30,133.33,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1
+35,Woloo,Washroom Finder,Technology,1,1,0,3,1,2,50,4,1250,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1
+35,Elcare India,Carenting for Elders,Healthcare,1,1,0,3,2,1,100,2.5,4000,0,0,0,NA,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1
+36,SneaKare,Shoe cleaning kits and storage crates,Home utility,0,0,1,1,1,0,20,5,400,3,7,4,0,1,21,12,175,0,1,1,1,1,1,0,0,0,1,1,1,0,0,1
+36,French Crown,Clothing Brand,Clothing,0,0,0,2,2,0,150,0.33,45454.54,0,0,0,1,1,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,1
+36,Store My Goods,Storage Solutions,Home utility,0,0,1,3,2,1,100,1.75,5714.28,2,25,2,0,1,50,4,1250,0,1,1,1,1,1,0,0,0,0,1,0,1,0,1
+36,Devnagri,Translation services of Indian languages,Marketing,0,1,0,2,2,0,100,1,10000,0,0,0,1,1,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,1
